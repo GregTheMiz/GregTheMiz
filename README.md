@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @GregTheMiz
 - 👀 I’m interested in Ai
-- 🌱 I’m currently learning Open Ai
-- 💞️ I’m looking to collaborate on Open Ai
 - 📫 Reach me on Github
 
 <!---
